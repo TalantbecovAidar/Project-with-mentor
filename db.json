@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "name": "",
+      "catigory": "",
+      "price": "",
+      "details": "",
+      "image": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "catigory": "",
+      "price": "",
+      "details": "",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
